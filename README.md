@@ -8,5 +8,5 @@ Move SUPER MARIO BROS. with DQN
   - `pip install ppaquette_gym_super_mario`
 
 ## Try it now
-  - Pretrained model in on `model/dqn_agent.pt`
+  - Pretrained model in on `models/dqn_agent.pt`
   - You can move it using function `valid()` without training
